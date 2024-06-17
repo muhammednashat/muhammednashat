@@ -7,14 +7,18 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/14J6VHOWRH-JeVyl978swYZNF8IqXf5rS/view?usp=sharing](https://drive.google.com/file/d/14J6VHOWRH-JeVyl978swYZNF8IqXf5rS/view?usp=sharing)
 
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/muhammednashat" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammednashat" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mnashat_dev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mnashat_dev" height="30" width="40" /></a>
+  📧 Email: mnshat.dev@gmail.com
+</p>
+
 <h3 align="left">About Me:</h3>
 I'm a passionate Android developer based in Egypt, with a strong interest in crafting clean and scalable mobile applications. My skills include Android development with Kotlin and Java, Firebase, Git, and more.
 
 <h3 align="left">Projects:</h3>
 Check out my GitHub repositories to see some of the projects I've worked on. From Android apps to personal projects and contributions to open-source, there's a variety of code to explore!
-
-<h3 align="left">Connect with Me:</h3>
-You can reach out to me via email at mnshat.dev@gmail.com or connect with me on LinkedIn and HackerRank.
 
 <h3 align="left">Let's Collaborate:</h3>
 I'm always open to collaboration and new opportunities. Whether it's Android development projects, hackathons, or discussions on tech topics, let's connect and create something amazing together! 
@@ -34,5 +38,6 @@ I'm always open to collaboration and new opportunities. Whether it's Android dev
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammednashat&show_icons=true&locale=en&layout=compact" alt="muhammednashat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednashat&" alt="muhammednashat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednashat&" alt="mu
+
 
